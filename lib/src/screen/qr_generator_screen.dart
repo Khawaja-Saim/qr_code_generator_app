@@ -161,6 +161,7 @@ class _QRGeneratorScreenState extends State<QRGeneratorScreen> {
                       ),
                     ),
                   ],
+                  //
                 ),
               SizedBox(height: 20.h),
               CustomButton(
